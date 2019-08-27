@@ -19,6 +19,4 @@ Next was to create scatter plots for four comparisons:
 
 Because all four charts would share similar attributes, I created a function to plot each chart, so that I would only have to input the y-values and labels. However, the data types in the data frame were all strings, so I used `pd.to_numeric()` on all relevant columns in order to plot the data.  
 
-<p align="center">
-<img width="400" height="249" src="https://github.com/lorijta92/API-weather-visualization/blob/master/output_data/latvcloud.png?raw=true"> <img width="400" height="249" src="https://github.com/lorijta92/API-weather-visualization/blob/master/output_data/latvwind.png?raw=true">
-</p>
+<p align="center"><img width="400" height="249" src="https://github.com/lorijta92/API-weather-visualization/blob/master/output_data/latvcloud.png?raw=true"> <img width="400" height="249" src="https://github.com/lorijta92/API-weather-visualization/blob/master/output_data/latvwind.png?raw=true"></p>
